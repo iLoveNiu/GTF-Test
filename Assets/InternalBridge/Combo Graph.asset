@@ -1,0 +1,719 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1bc9fb0bffd94b2483e7bd392da69bfc, type: 3}
+  m_Name: Combo Graph
+  m_EditorClassIdentifier: 
+  m_GraphModel:
+    rid: 6339549233851924480
+  references:
+    version: 2
+    RefIds:
+    - rid: 6339549233851924480
+      type: {class: ComboGraphModel, ns: , asm: Unity.InternalAPIEngineBridge.024}
+      data:
+        m_Guid:
+          m_Value0: 9956182608248735531
+          m_Value1: 1693597802668187209
+        m_GraphNodeModels:
+        - rid: 6339549233851924482
+        - rid: 6339549233851924483
+        - rid: 6339549233851924486
+        - rid: 6339549233851924488
+        - rid: 6339549233851924494
+        - rid: 6339549233851924495
+        - rid: 6339549233851924496
+        - rid: 6339549233851924509
+        - rid: 6339549233851924510
+        - rid: 6339549233851924511
+        - rid: 6339549233851924512
+        - rid: 6339549233851924513
+        - rid: 6339549233851924514
+        m_BadgeModels: []
+        m_GraphWireModels:
+        - rid: 6339549233851924485
+        - rid: 6339549233851924487
+        - rid: 6339549233851924489
+        - rid: 6339549233851924497
+        - rid: 6339549233851924498
+        - rid: 6339549233851924500
+        - rid: 6339549233851924515
+        - rid: 6339549233851924516
+        - rid: 6339549233851924517
+        - rid: 6339549233851924518
+        - rid: 6339549233851924519
+        - rid: 6339549233851924522
+        m_GraphStickyNoteModels: []
+        m_GraphPlacematModels: []
+        m_GraphVariableModels: []
+        m_GraphPortalModels: []
+        m_SectionModels:
+        - rid: 6339549233851924481
+        m_GraphElementMetaData:
+        - m_Guid:
+            m_Value0: 10743399065880292173
+            m_Value1: 13700783680283509867
+          m_Category: 0
+          m_Index: 0
+        - m_Guid:
+            m_Value0: 17471310411564770387
+            m_Value1: 9810310250109386664
+          m_Category: 0
+          m_Index: 1
+        - m_Guid:
+            m_Value0: 6278796902669132175
+            m_Value1: 8880452830491046438
+          m_Category: 2
+          m_Index: 0
+        - m_Guid:
+            m_Value0: 13297682022037433767
+            m_Value1: 1235105552551730722
+          m_Category: 0
+          m_Index: 2
+        - m_Guid:
+            m_Value0: 6403198053246968634
+            m_Value1: 17808820863178644813
+          m_Category: 2
+          m_Index: 1
+        - m_Guid:
+            m_Value0: 11830066832906842188
+            m_Value1: 16818554094925986594
+          m_Category: 0
+          m_Index: 3
+        - m_Guid:
+            m_Value0: 11220993218560093284
+            m_Value1: 14546035804882700895
+          m_Category: 2
+          m_Index: 2
+        - m_Guid:
+            m_Value0: 18207522411095824888
+            m_Value1: 221198192439933298
+          m_Category: 0
+          m_Index: 4
+        - m_Guid:
+            m_Value0: 12237977553650489228
+            m_Value1: 6520761289647860861
+          m_Category: 0
+          m_Index: 5
+        - m_Guid:
+            m_Value0: 4756626052623103142
+            m_Value1: 7323644364373942408
+          m_Category: 0
+          m_Index: 6
+        - m_Guid:
+            m_Value0: 8378605134579920833
+            m_Value1: 4820175578590037288
+          m_Category: 2
+          m_Index: 3
+        - m_Guid:
+            m_Value0: 10696928335698064583
+            m_Value1: 3240065677326965053
+          m_Category: 2
+          m_Index: 4
+        - m_Guid:
+            m_Value0: 17645341223195246248
+            m_Value1: 11565516449226194449
+          m_Category: 2
+          m_Index: 5
+        - m_Guid:
+            m_Value0: 14405181152700087293
+            m_Value1: 5050337937959381583
+          m_Category: 0
+          m_Index: 7
+        - m_Guid:
+            m_Value0: 3490706100372672515
+            m_Value1: 2363915541876470195
+          m_Category: 0
+          m_Index: 8
+        - m_Guid:
+            m_Value0: 10352614752189136949
+            m_Value1: 6819013478794161957
+          m_Category: 0
+          m_Index: 9
+        - m_Guid:
+            m_Value0: 6374058210949866259
+            m_Value1: 9874618275211653202
+          m_Category: 0
+          m_Index: 10
+        - m_Guid:
+            m_Value0: 18102320689706751968
+            m_Value1: 14606164552636468610
+          m_Category: 0
+          m_Index: 11
+        - m_Guid:
+            m_Value0: 17232948196170156589
+            m_Value1: 10521203816694438132
+          m_Category: 0
+          m_Index: 12
+        - m_Guid:
+            m_Value0: 5650264163041003101
+            m_Value1: 11965515810030757352
+          m_Category: 2
+          m_Index: 6
+        - m_Guid:
+            m_Value0: 2656150442169328269
+            m_Value1: 7611075739768696105
+          m_Category: 2
+          m_Index: 7
+        - m_Guid:
+            m_Value0: 4289535737243638644
+            m_Value1: 5601723538285774928
+          m_Category: 2
+          m_Index: 8
+        - m_Guid:
+            m_Value0: 1922558357567029525
+            m_Value1: 2859666934343933914
+          m_Category: 2
+          m_Index: 9
+        - m_Guid:
+            m_Value0: 7285467918877419642
+            m_Value1: 2158269688166530401
+          m_Category: 2
+          m_Index: 10
+        - m_Guid:
+            m_Value0: 5319325665387412593
+            m_Value1: 4526070386413234460
+          m_Category: 2
+          m_Index: 11
+        m_StencilTypeName: ComboStencil, Unity.InternalAPIEngineBridge.024, Version=0.0.0.0,
+          Culture=neutral, PublicKeyToken=null
+    - rid: 6339549233851924481
+      type: {class: SectionModel, ns: Unity.GraphToolsFoundation.Editor, asm: UnityEditor.GraphToolsFoundationModule}
+      data:
+        m_Guid:
+          m_Value0: 13631632476893561021
+          m_Value1: 3237707278110898963
+        m_Color: {r: 0, g: 0, b: 0, a: 0}
+        m_HasUserColor: 0
+        m_Version: 2
+        m_Items: []
+        <Title>k__BackingField: Graph Variables
+    - rid: 6339549233851924482
+      type: {class: ComboRootNodeModel, ns: , asm: Unity.InternalAPIEngineBridge.024}
+      data:
+        m_Guid:
+          m_Value0: 10743399065880292173
+          m_Value1: 13700783680283509867
+        m_Color: {r: 0, g: 0, b: 0, a: 0}
+        m_HasUserColor: 0
+        m_Version: 2
+        m_Position: {x: 761, y: 207.8}
+        m_Title: Root
+        m_Tooltip: 
+        m_InputConstantsById:
+          m_KeyList: []
+          m_ValueList: []
+        m_State: 0
+        m_Collapsed: 0
+    - rid: 6339549233851924483
+      type: {class: ConditionNodeModel, ns: , asm: Unity.InternalAPIEngineBridge.024}
+      data:
+        m_Guid:
+          m_Value0: 17471310411564770387
+          m_Value1: 9810310250109386664
+        m_Color: {r: 0, g: 0, b: 0, a: 0}
+        m_HasUserColor: 0
+        m_Version: 2
+        m_Position: {x: 263.2166, y: 473.8656}
+        m_Title: Condition
+        m_Tooltip: 
+        m_InputConstantsById:
+          m_KeyList:
+          - Precondition
+          m_ValueList:
+          - rid: 6339549233851924484
+        m_State: 0
+        m_Collapsed: 0
+    - rid: 6339549233851924484
+      type: {class: BooleanConstant, ns: Unity.GraphToolsFoundation.Editor, asm: UnityEditor.GraphToolsFoundationModule}
+      data:
+        m_Value: 0
+    - rid: 6339549233851924485
+      type: {class: WireModel, ns: Unity.GraphToolsFoundation.Editor, asm: UnityEditor.GraphToolsFoundationModule}
+      data:
+        m_Guid:
+          m_Value0: 6278796902669132175
+          m_Value1: 8880452830491046438
+        m_Color: {r: 0, g: 0, b: 0, a: 0}
+        m_HasUserColor: 0
+        m_Version: 2
+        m_FromPortReference:
+          m_NodeModelGuid:
+            m_Value0: 10743399065880292173
+            m_Value1: 13700783680283509867
+          m_UniqueId: 'Next '
+          m_Title: 'Next '
+        m_ToPortReference:
+          m_NodeModelGuid:
+            m_Value0: 17471310411564770387
+            m_Value1: 9810310250109386664
+          m_UniqueId: 'Input '
+          m_Title: 'Input '
+        m_WireLabel: 
+    - rid: 6339549233851924486
+      type: {class: ActionNodeModel, ns: , asm: Unity.InternalAPIEngineBridge.024}
+      data:
+        m_Guid:
+          m_Value0: 13297682022037433767
+          m_Value1: 1235105552551730722
+        m_Color: {r: 0, g: 0, b: 0, a: 0}
+        m_HasUserColor: 0
+        m_Version: 2
+        m_Position: {x: 571.2166, y: 498.8656}
+        m_Title: Action
+        m_Tooltip: 
+        m_InputConstantsById:
+          m_KeyList: []
+          m_ValueList: []
+        m_State: 0
+        m_Collapsed: 0
+        m_ActionName: Attack01
+    - rid: 6339549233851924487
+      type: {class: WireModel, ns: Unity.GraphToolsFoundation.Editor, asm: UnityEditor.GraphToolsFoundationModule}
+      data:
+        m_Guid:
+          m_Value0: 6403198053246968634
+          m_Value1: 17808820863178644813
+        m_Color: {r: 0, g: 0, b: 0, a: 0}
+        m_HasUserColor: 0
+        m_Version: 2
+        m_FromPortReference:
+          m_NodeModelGuid:
+            m_Value0: 17471310411564770387
+            m_Value1: 9810310250109386664
+          m_UniqueId: Result
+          m_Title: Result
+        m_ToPortReference:
+          m_NodeModelGuid:
+            m_Value0: 13297682022037433767
+            m_Value1: 1235105552551730722
+          m_UniqueId: Input
+          m_Title: Input
+        m_WireLabel: 
+    - rid: 6339549233851924488
+      type: {class: InputKeyNodeModel, ns: , asm: Unity.InternalAPIEngineBridge.024}
+      data:
+        m_Guid:
+          m_Value0: 11830066832906842188
+          m_Value1: 16818554094925986594
+        m_Color: {r: 0, g: 0, b: 0, a: 0}
+        m_HasUserColor: 0
+        m_Version: 2
+        m_Position: {x: 55.216614, y: 497.8656}
+        m_Title: Input Key
+        m_Tooltip: 
+        m_InputConstantsById:
+          m_KeyList: []
+          m_ValueList: []
+        m_State: 0
+        m_Collapsed: 0
+        m_type: 0
+        m_state: 0
+    - rid: 6339549233851924489
+      type: {class: WireModel, ns: Unity.GraphToolsFoundation.Editor, asm: UnityEditor.GraphToolsFoundationModule}
+      data:
+        m_Guid:
+          m_Value0: 11220993218560093284
+          m_Value1: 14546035804882700895
+        m_Color: {r: 0, g: 0, b: 0, a: 0}
+        m_HasUserColor: 0
+        m_Version: 2
+        m_FromPortReference:
+          m_NodeModelGuid:
+            m_Value0: 11830066832906842188
+            m_Value1: 16818554094925986594
+          m_UniqueId: Result
+          m_Title: Result
+        m_ToPortReference:
+          m_NodeModelGuid:
+            m_Value0: 17471310411564770387
+            m_Value1: 9810310250109386664
+          m_UniqueId: Precondition
+          m_Title: Precondition
+        m_WireLabel: 
+    - rid: 6339549233851924494
+      type: {class: ConditionNodeModel, ns: , asm: Unity.InternalAPIEngineBridge.024}
+      data:
+        m_Guid:
+          m_Value0: 18207522411095824888
+          m_Value1: 221198192439933298
+        m_Color: {r: 0, g: 0, b: 0, a: 0}
+        m_HasUserColor: 0
+        m_Version: 2
+        m_Position: {x: 230.21661, y: 709.8656}
+        m_Title: Condition Check
+        m_Tooltip: 
+        m_InputConstantsById:
+          m_KeyList:
+          - Precondition
+          m_ValueList:
+          - rid: 6339549233851924499
+        m_State: 0
+        m_Collapsed: 0
+    - rid: 6339549233851924495
+      type: {class: ActionNodeModel, ns: , asm: Unity.InternalAPIEngineBridge.024}
+      data:
+        m_Guid:
+          m_Value0: 12237977553650489228
+          m_Value1: 6520761289647860861
+        m_Color: {r: 0, g: 0, b: 0, a: 0}
+        m_HasUserColor: 0
+        m_Version: 2
+        m_Position: {x: 538.2166, y: 734.8656}
+        m_Title: Action Node
+        m_Tooltip: 
+        m_InputConstantsById:
+          m_KeyList: []
+          m_ValueList: []
+        m_State: 0
+        m_Collapsed: 0
+        m_ActionName: Attack01
+    - rid: 6339549233851924496
+      type: {class: InputKeyNodeModel, ns: , asm: Unity.InternalAPIEngineBridge.024}
+      data:
+        m_Guid:
+          m_Value0: 4756626052623103142
+          m_Value1: 7323644364373942408
+        m_Color: {r: 0, g: 0, b: 0, a: 0}
+        m_HasUserColor: 0
+        m_Version: 2
+        m_Position: {x: 22.216614, y: 733.8656}
+        m_Title: Input Key
+        m_Tooltip: 
+        m_InputConstantsById:
+          m_KeyList: []
+          m_ValueList: []
+        m_State: 0
+        m_Collapsed: 0
+        m_type: 0
+        m_state: 0
+    - rid: 6339549233851924497
+      type: {class: WireModel, ns: Unity.GraphToolsFoundation.Editor, asm: UnityEditor.GraphToolsFoundationModule}
+      data:
+        m_Guid:
+          m_Value0: 8378605134579920833
+          m_Value1: 4820175578590037288
+        m_Color: {r: 0, g: 0, b: 0, a: 0}
+        m_HasUserColor: 0
+        m_Version: 2
+        m_FromPortReference:
+          m_NodeModelGuid:
+            m_Value0: 18207522411095824888
+            m_Value1: 221198192439933298
+          m_UniqueId: Result
+          m_Title: Result
+        m_ToPortReference:
+          m_NodeModelGuid:
+            m_Value0: 12237977553650489228
+            m_Value1: 6520761289647860861
+          m_UniqueId: Input
+          m_Title: Input
+        m_WireLabel: 
+    - rid: 6339549233851924498
+      type: {class: WireModel, ns: Unity.GraphToolsFoundation.Editor, asm: UnityEditor.GraphToolsFoundationModule}
+      data:
+        m_Guid:
+          m_Value0: 10696928335698064583
+          m_Value1: 3240065677326965053
+        m_Color: {r: 0, g: 0, b: 0, a: 0}
+        m_HasUserColor: 0
+        m_Version: 2
+        m_FromPortReference:
+          m_NodeModelGuid:
+            m_Value0: 4756626052623103142
+            m_Value1: 7323644364373942408
+          m_UniqueId: Result
+          m_Title: Result
+        m_ToPortReference:
+          m_NodeModelGuid:
+            m_Value0: 18207522411095824888
+            m_Value1: 221198192439933298
+          m_UniqueId: Precondition
+          m_Title: Precondition
+        m_WireLabel: 
+    - rid: 6339549233851924499
+      type: {class: BooleanConstant, ns: Unity.GraphToolsFoundation.Editor, asm: UnityEditor.GraphToolsFoundationModule}
+      data:
+        m_Value: 0
+    - rid: 6339549233851924500
+      type: {class: WireModel, ns: Unity.GraphToolsFoundation.Editor, asm: UnityEditor.GraphToolsFoundationModule}
+      data:
+        m_Guid:
+          m_Value0: 17645341223195246248
+          m_Value1: 11565516449226194449
+        m_Color: {r: 0, g: 0, b: 0, a: 0}
+        m_HasUserColor: 0
+        m_Version: 2
+        m_FromPortReference:
+          m_NodeModelGuid:
+            m_Value0: 17471310411564770387
+            m_Value1: 9810310250109386664
+          m_UniqueId: 'Output '
+          m_Title: 'Output '
+        m_ToPortReference:
+          m_NodeModelGuid:
+            m_Value0: 18207522411095824888
+            m_Value1: 221198192439933298
+          m_UniqueId: 'Input '
+          m_Title: 'Input '
+        m_WireLabel: 
+    - rid: 6339549233851924509
+      type: {class: ConditionNodeModel, ns: , asm: Unity.InternalAPIEngineBridge.024}
+      data:
+        m_Guid:
+          m_Value0: 14405181152700087293
+          m_Value1: 5050337937959381583
+        m_Color: {r: 0, g: 0, b: 0, a: 0}
+        m_HasUserColor: 0
+        m_Version: 2
+        m_Position: {x: 1186.3759, y: 508.58063}
+        m_Title: Condition Check
+        m_Tooltip: 
+        m_InputConstantsById:
+          m_KeyList:
+          - Precondition
+          m_ValueList:
+          - rid: 6339549233851924520
+        m_State: 0
+        m_Collapsed: 0
+    - rid: 6339549233851924510
+      type: {class: ActionNodeModel, ns: , asm: Unity.InternalAPIEngineBridge.024}
+      data:
+        m_Guid:
+          m_Value0: 3490706100372672515
+          m_Value1: 2363915541876470195
+        m_Color: {r: 0, g: 0, b: 0, a: 0}
+        m_HasUserColor: 0
+        m_Version: 2
+        m_Position: {x: 1494.3759, y: 533.5806}
+        m_Title: Action Node
+        m_Tooltip: 
+        m_InputConstantsById:
+          m_KeyList: []
+          m_ValueList: []
+        m_State: 0
+        m_Collapsed: 0
+        m_ActionName: Attack01
+    - rid: 6339549233851924511
+      type: {class: InputKeyNodeModel, ns: , asm: Unity.InternalAPIEngineBridge.024}
+      data:
+        m_Guid:
+          m_Value0: 10352614752189136949
+          m_Value1: 6819013478794161957
+        m_Color: {r: 0, g: 0, b: 0, a: 0}
+        m_HasUserColor: 0
+        m_Version: 2
+        m_Position: {x: 978.37585, y: 532.5806}
+        m_Title: Input Key
+        m_Tooltip: 
+        m_InputConstantsById:
+          m_KeyList: []
+          m_ValueList: []
+        m_State: 0
+        m_Collapsed: 0
+        m_type: 0
+        m_state: 0
+    - rid: 6339549233851924512
+      type: {class: ConditionNodeModel, ns: , asm: Unity.InternalAPIEngineBridge.024}
+      data:
+        m_Guid:
+          m_Value0: 6374058210949866259
+          m_Value1: 9874618275211653202
+        m_Color: {r: 0, g: 0, b: 0, a: 0}
+        m_HasUserColor: 0
+        m_Version: 2
+        m_Position: {x: 1153.3759, y: 744.5806}
+        m_Title: Condition Check
+        m_Tooltip: 
+        m_InputConstantsById:
+          m_KeyList:
+          - Precondition
+          m_ValueList:
+          - rid: 6339549233851924521
+        m_State: 0
+        m_Collapsed: 0
+    - rid: 6339549233851924513
+      type: {class: ActionNodeModel, ns: , asm: Unity.InternalAPIEngineBridge.024}
+      data:
+        m_Guid:
+          m_Value0: 18102320689706751968
+          m_Value1: 14606164552636468610
+        m_Color: {r: 0, g: 0, b: 0, a: 0}
+        m_HasUserColor: 0
+        m_Version: 2
+        m_Position: {x: 1461.3759, y: 769.5806}
+        m_Title: Action Node
+        m_Tooltip: 
+        m_InputConstantsById:
+          m_KeyList: []
+          m_ValueList: []
+        m_State: 0
+        m_Collapsed: 0
+        m_ActionName: Attack01
+    - rid: 6339549233851924514
+      type: {class: InputKeyNodeModel, ns: , asm: Unity.InternalAPIEngineBridge.024}
+      data:
+        m_Guid:
+          m_Value0: 17232948196170156589
+          m_Value1: 10521203816694438132
+        m_Color: {r: 0, g: 0, b: 0, a: 0}
+        m_HasUserColor: 0
+        m_Version: 2
+        m_Position: {x: 945.37585, y: 768.5806}
+        m_Title: Input Key
+        m_Tooltip: 
+        m_InputConstantsById:
+          m_KeyList: []
+          m_ValueList: []
+        m_State: 0
+        m_Collapsed: 0
+        m_type: 0
+        m_state: 0
+    - rid: 6339549233851924515
+      type: {class: WireModel, ns: Unity.GraphToolsFoundation.Editor, asm: UnityEditor.GraphToolsFoundationModule}
+      data:
+        m_Guid:
+          m_Value0: 5650264163041003101
+          m_Value1: 11965515810030757352
+        m_Color: {r: 0, g: 0, b: 0, a: 0}
+        m_HasUserColor: 0
+        m_Version: 2
+        m_FromPortReference:
+          m_NodeModelGuid:
+            m_Value0: 14405181152700087293
+            m_Value1: 5050337937959381583
+          m_UniqueId: Result
+          m_Title: Result
+        m_ToPortReference:
+          m_NodeModelGuid:
+            m_Value0: 3490706100372672515
+            m_Value1: 2363915541876470195
+          m_UniqueId: Input
+          m_Title: Input
+        m_WireLabel: 
+    - rid: 6339549233851924516
+      type: {class: WireModel, ns: Unity.GraphToolsFoundation.Editor, asm: UnityEditor.GraphToolsFoundationModule}
+      data:
+        m_Guid:
+          m_Value0: 2656150442169328269
+          m_Value1: 7611075739768696105
+        m_Color: {r: 0, g: 0, b: 0, a: 0}
+        m_HasUserColor: 0
+        m_Version: 2
+        m_FromPortReference:
+          m_NodeModelGuid:
+            m_Value0: 10352614752189136949
+            m_Value1: 6819013478794161957
+          m_UniqueId: Result
+          m_Title: Result
+        m_ToPortReference:
+          m_NodeModelGuid:
+            m_Value0: 14405181152700087293
+            m_Value1: 5050337937959381583
+          m_UniqueId: Precondition
+          m_Title: Precondition
+        m_WireLabel: 
+    - rid: 6339549233851924517
+      type: {class: WireModel, ns: Unity.GraphToolsFoundation.Editor, asm: UnityEditor.GraphToolsFoundationModule}
+      data:
+        m_Guid:
+          m_Value0: 4289535737243638644
+          m_Value1: 5601723538285774928
+        m_Color: {r: 0, g: 0, b: 0, a: 0}
+        m_HasUserColor: 0
+        m_Version: 2
+        m_FromPortReference:
+          m_NodeModelGuid:
+            m_Value0: 6374058210949866259
+            m_Value1: 9874618275211653202
+          m_UniqueId: Result
+          m_Title: Result
+        m_ToPortReference:
+          m_NodeModelGuid:
+            m_Value0: 18102320689706751968
+            m_Value1: 14606164552636468610
+          m_UniqueId: Input
+          m_Title: Input
+        m_WireLabel: 
+    - rid: 6339549233851924518
+      type: {class: WireModel, ns: Unity.GraphToolsFoundation.Editor, asm: UnityEditor.GraphToolsFoundationModule}
+      data:
+        m_Guid:
+          m_Value0: 1922558357567029525
+          m_Value1: 2859666934343933914
+        m_Color: {r: 0, g: 0, b: 0, a: 0}
+        m_HasUserColor: 0
+        m_Version: 2
+        m_FromPortReference:
+          m_NodeModelGuid:
+            m_Value0: 17232948196170156589
+            m_Value1: 10521203816694438132
+          m_UniqueId: Result
+          m_Title: Result
+        m_ToPortReference:
+          m_NodeModelGuid:
+            m_Value0: 6374058210949866259
+            m_Value1: 9874618275211653202
+          m_UniqueId: Precondition
+          m_Title: Precondition
+        m_WireLabel: 
+    - rid: 6339549233851924519
+      type: {class: WireModel, ns: Unity.GraphToolsFoundation.Editor, asm: UnityEditor.GraphToolsFoundationModule}
+      data:
+        m_Guid:
+          m_Value0: 7285467918877419642
+          m_Value1: 2158269688166530401
+        m_Color: {r: 0, g: 0, b: 0, a: 0}
+        m_HasUserColor: 0
+        m_Version: 2
+        m_FromPortReference:
+          m_NodeModelGuid:
+            m_Value0: 14405181152700087293
+            m_Value1: 5050337937959381583
+          m_UniqueId: 'Output '
+          m_Title: 'Output '
+        m_ToPortReference:
+          m_NodeModelGuid:
+            m_Value0: 6374058210949866259
+            m_Value1: 9874618275211653202
+          m_UniqueId: 'Input '
+          m_Title: 'Input '
+        m_WireLabel: 
+    - rid: 6339549233851924520
+      type: {class: BooleanConstant, ns: Unity.GraphToolsFoundation.Editor, asm: UnityEditor.GraphToolsFoundationModule}
+      data:
+        m_Value: 0
+    - rid: 6339549233851924521
+      type: {class: BooleanConstant, ns: Unity.GraphToolsFoundation.Editor, asm: UnityEditor.GraphToolsFoundationModule}
+      data:
+        m_Value: 0
+    - rid: 6339549233851924522
+      type: {class: WireModel, ns: Unity.GraphToolsFoundation.Editor, asm: UnityEditor.GraphToolsFoundationModule}
+      data:
+        m_Guid:
+          m_Value0: 5319325665387412593
+          m_Value1: 4526070386413234460
+        m_Color: {r: 0, g: 0, b: 0, a: 0}
+        m_HasUserColor: 0
+        m_Version: 2
+        m_FromPortReference:
+          m_NodeModelGuid:
+            m_Value0: 10743399065880292173
+            m_Value1: 13700783680283509867
+          m_UniqueId: 'Next '
+          m_Title: 'Next '
+        m_ToPortReference:
+          m_NodeModelGuid:
+            m_Value0: 14405181152700087293
+            m_Value1: 5050337937959381583
+          m_UniqueId: 'Input '
+          m_Title: 'Input '
+        m_WireLabel: 
