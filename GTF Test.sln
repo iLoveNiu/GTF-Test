@@ -1,0 +1,21 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Unity.InternalAPIEngineBridge.024", "Unity.InternalAPIEngineBridge.024.csproj", "{4b5542b8-9c71-43bd-7ce0-e6032da57002}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assembly-CSharp", "Assembly-CSharp.csproj", "{c7d2ade5-de93-344f-2479-637a1d3e0ef8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4b5542b8-9c71-43bd-7ce0-e6032da57002}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4b5542b8-9c71-43bd-7ce0-e6032da57002}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{c7d2ade5-de93-344f-2479-637a1d3e0ef8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{c7d2ade5-de93-344f-2479-637a1d3e0ef8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
